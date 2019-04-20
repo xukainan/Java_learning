@@ -14,7 +14,7 @@ import java.math.BigInteger;
 
 * <p>Title: BigIntTest</p>  
 
-* <p>Description: </p>  
+* <p>Description: BigInteger实现除法取余</p>  
 
 * @author kainan  
 

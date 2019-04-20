@@ -15,7 +15,7 @@ import java.math.RoundingMode;
 
 * <p>Title: BigDecTest</p>  
 
-* <p>Description: </p>  
+* <p>Description: BigDecimal实现四舍五入</p>  
 
 * @author kainan  
 

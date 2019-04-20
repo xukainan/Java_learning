@@ -2,7 +2,7 @@
 * <p>Copyright: Copyright (c) 2019</p>  
 * <p>Company: https://github.com/xukainan/java_learning</p>  
 */  
-package com.uaian.algorithm;
+package com.uaian.sortAlgorithm;
 
 /**  
 * <p>Title: BubbleSort</p>  
